@@ -3,8 +3,6 @@ import inquirer from "inquirer";
 import chalk from "chalk";
 import { Calculator } from "./calculator.js";
 
-let num1: number, num2: number, op: string, error: boolean = false;
-
 type MyInput = {
   name: string;
   type: string;
