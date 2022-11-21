@@ -1,2 +1,2 @@
-# -typescript-node-projects
-Assignment Projects For Panaverse using TypeScript
+# typescript-node-projects
+learning Projects For TypeScript and Node
