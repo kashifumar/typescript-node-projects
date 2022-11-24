@@ -1,0 +1,29 @@
+{
+  "name": "kas-todo",
+  "version": "1.0.0",
+  "description": "a simple command line Todo app using TypeScipt, Node.js and Inquirer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "kas-todo": "bin/index.js"
+  },
+  "type": "module",
+  "keywords": [
+    "typescript",
+    "node",
+    "inquirer"
+  ],
+  "author": "Kashif Umar",
+  "license": "ISC",
+  "dependencies": {
+    "@types/chalk-animation": "^1.6.1",
+    "chalk": "^5.1.2",
+    "chalk-animation": "^2.0.3",
+    "inquirer": "^9.1.4"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.3"
+  }
+}
